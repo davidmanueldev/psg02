@@ -15,7 +15,7 @@ Los archivos de este proyecto son:
 
 # Encabezado de primer nivel
 ## Ahora de segundo
-## Sip, un tercero
+### Sip, un tercero
 
 Una bella lista ordenada
 
