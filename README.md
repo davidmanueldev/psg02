@@ -34,7 +34,7 @@ Ejemplito de código
 ```python
 print("Hola PSG")
 ```
-[Oigan no me vieron un enlace por aqui?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Oigan no vieron un enlace por aqui?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Epa, una imagen :0 (o no?)
 
